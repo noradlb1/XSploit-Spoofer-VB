@@ -1,0 +1,12 @@
+C:\Users\MONSTERMC\Desktop\New folder (3)\XSploit\bin\Debug\Guna.UI2.dll
+C:\Users\MONSTERMC\Desktop\New folder (3)\XSploit\obj\Debug\XSploit.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\New folder (3)\XSploit\obj\Debug\XSploit.Form1.resources
+C:\Users\MONSTERMC\Desktop\New folder (3)\XSploit\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\New folder (3)\XSploit\obj\Debug\XSploit.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\New folder (3)\XSploit\obj\Debug\XSploit.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\New folder (3)\XSploit\obj\Debug\XSploit.vbproj.CopyComplete
+C:\Users\MONSTERMC\Desktop\New folder (3)\XSploit\bin\Debug\XSploit Edit By MONSTERMC.exe.config
+C:\Users\MONSTERMC\Desktop\New folder (3)\XSploit\bin\Debug\XSploit Edit By MONSTERMC.exe
+C:\Users\MONSTERMC\Desktop\New folder (3)\XSploit\bin\Debug\XSploit Edit By MONSTERMC.pdb
+C:\Users\MONSTERMC\Desktop\New folder (3)\XSploit\obj\Debug\XSploit Edit By MONSTERMC.exe
+C:\Users\MONSTERMC\Desktop\New folder (3)\XSploit\obj\Debug\XSploit Edit By MONSTERMC.pdb
